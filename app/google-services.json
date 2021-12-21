@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503746587141",
+    "project_id": "encryptedimage",
+    "storage_bucket": "encryptedimage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503746587141:android:86638577a2100d42c74a6c",
+        "android_client_info": {
+          "package_name": "com.guy.class22a_ands_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503746587141-rr636uc5njio1mv5gre72j4kuv6slrv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgivg4qt6g5G0kTdUkmyKJszgqdeVRAG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503746587141-rr636uc5njio1mv5gre72j4kuv6slrv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
